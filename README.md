@@ -1,26 +1,32 @@
 # Water-Tank-Problem
 
-Problem Statement
+## Problem Statement :
+
 Given an array of non-negative integers representing the height of blocks, calculate the total units of water stored between the blocks after rainfall.
 
-Build a frontend web application using:
+## Build a frontend web application using:
 
 Vanilla JavaScript
 HTML
 CSS
 
-Example
+## Example
 
-Input
+Input :
+
 [0,4,0,0,0,6,0,6,4,0]
 
-Output
+Output :
+
 18 Units
 
-Tech Stack
+## Tech Stack
 HTML5
+
 CSS3
+
 Vanilla JavaScript
+
 SVG for visualization
 
 
