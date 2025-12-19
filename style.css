@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+input {
+    width: 300px;
+    padding: 6px;
+}
+
+button {
+    padding: 6px 12px;
+    margin-left: 10px;
+}
+
+svg {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
